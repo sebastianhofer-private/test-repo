@@ -6,3 +6,4 @@ This repository is just for testing.
 
 * add first test feature
 * changes made in master ;-)
+* feature changes
